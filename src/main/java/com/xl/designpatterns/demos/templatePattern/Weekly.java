@@ -10,7 +10,7 @@ public abstract class Weekly {
 
     abstract void addAttachment ();
 
-    // 钩子函数；fsfff
+    // 钩子函数；fsfffff
     boolean isAdd () {
         return false;
     }
