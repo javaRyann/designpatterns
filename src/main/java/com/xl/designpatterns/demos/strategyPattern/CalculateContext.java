@@ -8,7 +8,7 @@ import com.xl.designpatterns.demos.strategyPattern.strategyInterface.CalculateSt
 public class CalculateContext {
 
     /**
-     * 行为接口
+     * 行为接口 test提交
      */
     private CalculateStrategy calculateStrategy;
 
